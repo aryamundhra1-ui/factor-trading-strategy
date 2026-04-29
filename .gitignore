@@ -1,0 +1,13 @@
+venv/
+config.py
+*.csv
+__pycache__/
+*.pyc
+.vscode/
+portfolio_history.csv
+trade_log.csv
+automation_log.csv
+monthly_returns.csv
+production_returns.csv
+improved_returns.csv
+regime_log.csv
