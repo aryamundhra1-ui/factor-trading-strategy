@@ -135,6 +135,6 @@ Matplotlib · Seaborn · SciPy · alpaca-py · schedule
 
 ## Author
 
-**Arya Maundhra** — Finance major, quantitative finance researcher  
+**Arya Mundhra** — Finance major, quantitative finance enthusiast
 GitHub: [github.com/aryamaundhra](https://github.com/aryamaundhra)  
 Project 1: [Quantitative Portfolio Optimizer](https://github.com/aryamaundhra/quant-portfolio-optimizer)
